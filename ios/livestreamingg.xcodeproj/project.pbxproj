@@ -14,6 +14,20 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-livestreamingg-livestreaminggTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-livestreamingg-livestreaminggTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		B4DBA0A19E8043EF94A369CB /* TT Chocolates Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B54AC5BFFAD54F90AD51C789 /* TT Chocolates Bold Italic.otf */; };
+		8D091DE5F80C474A94494AF0 /* TT Chocolates Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 40ECF3B32D21437682E092C0 /* TT Chocolates Bold.otf */; };
+		6AFEBF35CD104AE59E3FC496 /* TT Chocolates DemiBold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5DF295FE7B65477FB8C7F39E /* TT Chocolates DemiBold Italic.otf */; };
+		3D1BD3E9702A438EB484FABF /* TT Chocolates DemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 710295333FEE415080F45235 /* TT Chocolates DemiBold.otf */; };
+		3028F280DA0948DCBFC6EF6A /* TT Chocolates ExtraBold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 09837DBBE0764A28862F615B /* TT Chocolates ExtraBold Italic.otf */; };
+		C4EE563B58B546AA9B09DB29 /* TT Chocolates ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 37F1CE8BCA0044CA9F0EC87A /* TT Chocolates ExtraBold.otf */; };
+		96AED6F1DFF541A9AB81655C /* TT Chocolates ExtraLight Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A4DE2F0F7F83483190C8BB23 /* TT Chocolates ExtraLight Italic.otf */; };
+		A97CBA1294DB4CFB86116228 /* TT Chocolates ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1E034CC4CB0B4490A95CF4C8 /* TT Chocolates ExtraLight.otf */; };
+		A0B5D51D50CB4D57A47E6F4F /* TT Chocolates Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9F51F8AE23B64837A629064B /* TT Chocolates Italic.otf */; };
+		5B38FC9149484021A8C372C1 /* TT Chocolates Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = AEDA418D9A1B40398EC6336A /* TT Chocolates Light Italic.otf */; };
+		6B912CD747D54C03B27C9594 /* TT Chocolates Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = FC2DCBD8B5B94F0CADB9D13E /* TT Chocolates Light.otf */; };
+		E2FACE07448246B499781088 /* TT Chocolates Medium Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 453A10147A8949179C32FD9D /* TT Chocolates Medium Italic.otf */; };
+		9DBDFDE337954CEFB94026FB /* TT Chocolates Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5ED82361C18E4670B52686D0 /* TT Chocolates Medium.otf */; };
+		476B00F577B941EDBBE41CDE /* TT Chocolates Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 933B60CE6690468696E84A08 /* TT Chocolates Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +59,20 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = livestreamingg/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-livestreamingg-livestreaminggTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-livestreamingg-livestreaminggTests.release.xcconfig"; path = "Target Support Files/Pods-livestreamingg-livestreaminggTests/Pods-livestreamingg-livestreaminggTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		B54AC5BFFAD54F90AD51C789 /* TT Chocolates Bold Italic.otf */ = {isa = PBXFileReference; name = "TT Chocolates Bold Italic.otf"; path = "../assets/fonts/TT Chocolates Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		40ECF3B32D21437682E092C0 /* TT Chocolates Bold.otf */ = {isa = PBXFileReference; name = "TT Chocolates Bold.otf"; path = "../assets/fonts/TT Chocolates Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5DF295FE7B65477FB8C7F39E /* TT Chocolates DemiBold Italic.otf */ = {isa = PBXFileReference; name = "TT Chocolates DemiBold Italic.otf"; path = "../assets/fonts/TT Chocolates DemiBold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		710295333FEE415080F45235 /* TT Chocolates DemiBold.otf */ = {isa = PBXFileReference; name = "TT Chocolates DemiBold.otf"; path = "../assets/fonts/TT Chocolates DemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		09837DBBE0764A28862F615B /* TT Chocolates ExtraBold Italic.otf */ = {isa = PBXFileReference; name = "TT Chocolates ExtraBold Italic.otf"; path = "../assets/fonts/TT Chocolates ExtraBold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		37F1CE8BCA0044CA9F0EC87A /* TT Chocolates ExtraBold.otf */ = {isa = PBXFileReference; name = "TT Chocolates ExtraBold.otf"; path = "../assets/fonts/TT Chocolates ExtraBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A4DE2F0F7F83483190C8BB23 /* TT Chocolates ExtraLight Italic.otf */ = {isa = PBXFileReference; name = "TT Chocolates ExtraLight Italic.otf"; path = "../assets/fonts/TT Chocolates ExtraLight Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1E034CC4CB0B4490A95CF4C8 /* TT Chocolates ExtraLight.otf */ = {isa = PBXFileReference; name = "TT Chocolates ExtraLight.otf"; path = "../assets/fonts/TT Chocolates ExtraLight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9F51F8AE23B64837A629064B /* TT Chocolates Italic.otf */ = {isa = PBXFileReference; name = "TT Chocolates Italic.otf"; path = "../assets/fonts/TT Chocolates Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AEDA418D9A1B40398EC6336A /* TT Chocolates Light Italic.otf */ = {isa = PBXFileReference; name = "TT Chocolates Light Italic.otf"; path = "../assets/fonts/TT Chocolates Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FC2DCBD8B5B94F0CADB9D13E /* TT Chocolates Light.otf */ = {isa = PBXFileReference; name = "TT Chocolates Light.otf"; path = "../assets/fonts/TT Chocolates Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		453A10147A8949179C32FD9D /* TT Chocolates Medium Italic.otf */ = {isa = PBXFileReference; name = "TT Chocolates Medium Italic.otf"; path = "../assets/fonts/TT Chocolates Medium Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5ED82361C18E4670B52686D0 /* TT Chocolates Medium.otf */ = {isa = PBXFileReference; name = "TT Chocolates Medium.otf"; path = "../assets/fonts/TT Chocolates Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		933B60CE6690468696E84A08 /* TT Chocolates Regular.otf */ = {isa = PBXFileReference; name = "TT Chocolates Regular.otf"; path = "../assets/fonts/TT Chocolates Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +152,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A9CDBC4A511D46BBB5B4775E /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +178,28 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		A9CDBC4A511D46BBB5B4775E /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				B54AC5BFFAD54F90AD51C789 /* TT Chocolates Bold Italic.otf */,
+				40ECF3B32D21437682E092C0 /* TT Chocolates Bold.otf */,
+				5DF295FE7B65477FB8C7F39E /* TT Chocolates DemiBold Italic.otf */,
+				710295333FEE415080F45235 /* TT Chocolates DemiBold.otf */,
+				09837DBBE0764A28862F615B /* TT Chocolates ExtraBold Italic.otf */,
+				37F1CE8BCA0044CA9F0EC87A /* TT Chocolates ExtraBold.otf */,
+				A4DE2F0F7F83483190C8BB23 /* TT Chocolates ExtraLight Italic.otf */,
+				1E034CC4CB0B4490A95CF4C8 /* TT Chocolates ExtraLight.otf */,
+				9F51F8AE23B64837A629064B /* TT Chocolates Italic.otf */,
+				AEDA418D9A1B40398EC6336A /* TT Chocolates Light Italic.otf */,
+				FC2DCBD8B5B94F0CADB9D13E /* TT Chocolates Light.otf */,
+				453A10147A8949179C32FD9D /* TT Chocolates Medium Italic.otf */,
+				5ED82361C18E4670B52686D0 /* TT Chocolates Medium.otf */,
+				933B60CE6690468696E84A08 /* TT Chocolates Regular.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +296,20 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				B4DBA0A19E8043EF94A369CB /* TT Chocolates Bold Italic.otf in Resources */,
+				8D091DE5F80C474A94494AF0 /* TT Chocolates Bold.otf in Resources */,
+				6AFEBF35CD104AE59E3FC496 /* TT Chocolates DemiBold Italic.otf in Resources */,
+				3D1BD3E9702A438EB484FABF /* TT Chocolates DemiBold.otf in Resources */,
+				3028F280DA0948DCBFC6EF6A /* TT Chocolates ExtraBold Italic.otf in Resources */,
+				C4EE563B58B546AA9B09DB29 /* TT Chocolates ExtraBold.otf in Resources */,
+				96AED6F1DFF541A9AB81655C /* TT Chocolates ExtraLight Italic.otf in Resources */,
+				A97CBA1294DB4CFB86116228 /* TT Chocolates ExtraLight.otf in Resources */,
+				A0B5D51D50CB4D57A47E6F4F /* TT Chocolates Italic.otf in Resources */,
+				5B38FC9149484021A8C372C1 /* TT Chocolates Light Italic.otf in Resources */,
+				6B912CD747D54C03B27C9594 /* TT Chocolates Light.otf in Resources */,
+				E2FACE07448246B499781088 /* TT Chocolates Medium Italic.otf in Resources */,
+				9DBDFDE337954CEFB94026FB /* TT Chocolates Medium.otf in Resources */,
+				476B00F577B941EDBBE41CDE /* TT Chocolates Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

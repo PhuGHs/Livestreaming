@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/TT Chocolates Bold Italic.otf",
+      "sha1": "693b8944579b3e8dc083068440861bb811a74db1"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates Bold.otf",
+      "sha1": "29b0395d458b7c8dd9d49846594d5efbd56c459c"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates DemiBold Italic.otf",
+      "sha1": "4fc06d7277b2644691d29673fd3839f2846c1eee"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates DemiBold.otf",
+      "sha1": "02a40b5c6441a2753064045e7aece02a711136e1"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates ExtraBold Italic.otf",
+      "sha1": "d3a49e5ed42b96545f93ea82ca05c49b5ace51f6"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates ExtraBold.otf",
+      "sha1": "6ee5184eca986d558cd9903cd851a4d6388f2d6e"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates ExtraLight Italic.otf",
+      "sha1": "f2ae60b7ea2643651d5078334e91ad5c97ecd233"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates ExtraLight.otf",
+      "sha1": "f7cbfa99d7d87207cd61ea7b40e10906ee113c2a"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates Italic.otf",
+      "sha1": "da79ca0eec624e5671eae0bc5809c4321fd1510e"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates Light Italic.otf",
+      "sha1": "04dac8912d035d77b93beccc5abf48b8e695d798"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates Light.otf",
+      "sha1": "bd2b9e50217ce6728db95794eec571b2c8be26ad"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates Medium Italic.otf",
+      "sha1": "92dd0d6aa716ac0ef85618f80108865b4d084130"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates Medium.otf",
+      "sha1": "9a14b1082e1fff255edb2160641b1e7ccfd84bf1"
+    },
+    {
+      "path": "assets/fonts/TT Chocolates Regular.otf",
+      "sha1": "42410d54775e461b8fabc2ff71a85eee9506093d"
+    }
+  ]
+}
